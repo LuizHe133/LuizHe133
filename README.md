@@ -1,16 +1,19 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&color=101ade"/>
 
-<!--
-**LuizHe133/LuizHe133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img align="center" height="750" src="https://i.pinimg.com/originals/97/88/78/9788782452aed2a7abda3e155535d6b5.gif"/>
+</div>
+<img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=LuizHe133&rank_icon=github&show_icons=true&theme=blue_navy&count_private=true">
+<br>
+<br>
+<img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=LuizHe133&layout=compact&theme=blue_navy&count_private=true">
 
-Here are some ideas to get you started:
+<img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizHe133&theme=blue_navy"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=LuizHe133&theme=blue_navy"/>
+
+<img height="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizHe133&theme=blue_navy" />
+
+<div align="center">
+  <img align="center" height="1000" src="https://i.pinimg.com/originals/97/88/78/9788782452aed2a7abda3e155535d6b5.gif"/>
+</div>
