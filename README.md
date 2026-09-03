@@ -6,10 +6,6 @@
   <br>
 <br>
 
-</div>
-<div align="center">
-<img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=LuizHe133&rank_icon=github&show_icons=true&theme=blue_navy&count_private=true">
-  </div>
 <br>
 <br>
 <div align="center">
